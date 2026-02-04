@@ -1,0 +1,10 @@
+{
+  "PACKAGE_ID": "0x2092bea8fed017cd6789faf7ede2907a17f5f4f963f150906943e5e46298b644",
+  "MODULE_NAME": "experiment",
+  "RANDOM_STATE_ID": "0x8",
+  "NETWORK_URL": "https://fullnode.testnet.sui.io:443",
+  "PRIVATE_KEY": "xxxxxxxxxxxxx",
+  "TREE_DEPTH": 20,
+  "TOTAL_DATA_COUNT": 100000,
+  "ROUNDS": 5
+}

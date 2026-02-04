@@ -1,0 +1,4 @@
+Operator,Template,Constraints,Description
+Range Check,range_check.circom,74,32-bit integer boundary verification
+Membership,membership.circom,10380,Merkle proof for 10^6 records (depth 20)
+Hash Consistency,hash_consistency.circom,415,Poseidon hash for data integrity

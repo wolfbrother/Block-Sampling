@@ -1,0 +1,37 @@
+{
+  "name": "block-sampling",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:integration": "node --loader ts-node/esm src/core/integration_test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfbrother/Block-Sampling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolfbrother/Block-Sampling/issues"
+  },
+  "homepage": "https://github.com/wolfbrother/Block-Sampling#readme",
+  "dependencies": {
+    "@mysten/sui": "1.45.2",
+    "@types/bip39": "^2.4.2",
+    "@types/node": "^25.2.0",
+    "bip39": "^3.1.0",
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "dotenv": "^17.2.3",
+    "fixed-merkle-tree": "^0.7.3",
+    "snarkjs": "^0.7.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  }
+}

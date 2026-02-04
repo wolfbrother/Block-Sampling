@@ -1,0 +1,28 @@
+# ACADEMIC RESEARCH AND NON-COMMERCIAL USE LICENSE
+# Version 1.0 (February 4, 2026)
+
+Copyright (c) 2026 Jinliang Xu (xujinliang@caict.ac.cn). All Rights Reserved.
+
+Associated Research Paper: "Block-Sampling: An Entropy-Driven Probabilistic Zero-Knowledge Verification Framework for Efficient Data Element Trading"
+
+## 1. GRANT OF LICENSE
+This code and its associated documentation (the "Software") are provided solely for the purpose of academic review, peer evaluation, and reproduction of the results presented in the aforementioned research paper. 
+
+## 2. RESTRICTIONS
+The following actions are STRICTLY PROHIBITED without the express prior written consent of the Copyright Holder:
+- (a) COMMERCIAL USE: Any use of the Software, in whole or in part, for commercial gain or within a commercial enterprise.
+- (b) REDISTRIBUTION: Re-hosting, mirroring, or redistributing the Software or its derivatives in any form.
+- (c) MODIFICATION: Creating derivative works or modifying the core arithmetic circuits (e.g., membership.circom, range_check.circom) for use in other projects.
+- (d) SUB-LICENSING: Granting any further rights to third parties.
+
+## 3. ATTRIBUTION MANDATE
+Any academic work or publication that utilizes this Software, or refers to the methodologies implemented herein, MUST provide a full and proper citation to the original research paper.
+
+## 4. INTELLECTUAL PROPERTY
+The "Block-Sampling" methodology, including the entropy-driven sampling engine and the atomized ZKP constraint framework, remains the exclusive intellectual property of the authors. This license does not grant any patent rights.
+
+## 5. TERMINATION
+Any breach of these terms will result in the immediate and automatic termination of this license, and the Copyright Holder reserves the right to pursue legal action for copyright and intellectual property infringement.
+
+## 6. DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
